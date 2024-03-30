@@ -1,4 +1,4 @@
-# Sistemas Paralelos
+# Sistemas-Paralelos
 Ejercicios de "Sistemas Paralelos"
 <p align="center">
   <img src= "https://64.media.tumblr.com/4b883b382b1e5c6de4a289a36db5ecc9/5e533be0f575aa0c-09/s400x600/bba9d0c4a07efaeb4421498d994419bc435d575e.gif" alt = "mis mamis"/>
