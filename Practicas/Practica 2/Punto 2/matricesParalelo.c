@@ -13,7 +13,7 @@ void *mult_matriz(void *ptr)
   int inicio = id * block_size;
   int fin = inicio + block_size;
 
-  for (int i = 0; i < N; i++) {
+  for (int i = inicio; i < fin; i++) {
     for (int j = 0; j < N; j++) {
       suma = 0;
       for (int k = 0; k < N; k++) {
