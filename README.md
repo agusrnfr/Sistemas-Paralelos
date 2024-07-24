@@ -9,3 +9,7 @@ Ejercicios de "Sistemas Paralelos"
 * [**Práctica 2**](https://github.com/agusrnfr/Sistemas-Paralelos/tree/main/Practicas/Practica%202)
 * [**Práctica 3**](https://github.com/agusrnfr/Sistemas-Paralelos/tree/main/Practicas/Practica%203)
 * [**Práctica 4**](https://github.com/agusrnfr/Sistemas-Paralelos/tree/main/Practicas/Practica%204)
+## Entregas
+* [**Entrega 1**](https://github.com/agusrnfr/Sistemas-Paralelos/tree/main/Entregas/Entrega_1)
+* [**Entrega 2**](https://github.com/agusrnfr/Sistemas-Paralelos/tree/main/Entregas/Entrega_2)
+* [**Entrega 3**](https://github.com/agusrnfr/Sistemas-Paralelos/tree/main/Entregas/Entrega_3)
